@@ -1,0 +1,6 @@
+
+* hinter href bei den Monstern class="Monster"
+* <em> tags entfernen. BEIDE KLAMMERN
+* alle monster namen checken
+* bilder => bilder namen wie die monster namen
+* Bleib wie du bist <3

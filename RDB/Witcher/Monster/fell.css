@@ -1,0 +1,155 @@
+body
+{
+	background-image: url(bestien_Background.png);
+	background-size: cover;
+}
+
+#website
+{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#header
+{
+	width: 1209px;
+	height: 100px;
+	border: 3px solid black;
+	text-align: center;
+	display: flex;
+}
+
+#header a
+{
+	letter-spacing: .1em;
+	color: gray;
+	font-family: Morpheus;
+}
+.logo{
+	background-image: url(../witcher-logo.png);
+	width: 120px;
+	height: inherit;
+	background-size: auto 100%;
+	position: absolute;
+	cursor: pointer;
+}
+.logo a{
+	display: block;
+	width: inherit;
+	height: inherit;
+}
+#header h1
+{
+	text-align: center;
+	font-size: 47px;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	color: white;
+	font-family: Morpheus;
+	margin: auto;
+}
+
+#main
+{
+	width: 1215px;
+}
+
+#menu
+{
+	float: left;
+	width: 300px;
+	height: 625px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	border: 3px solid black;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+#menu a{
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	color: #fff;
+	font-style: italic;
+	display: block;
+	padding: 2px 0 2px 5px;
+	border-bottom: 1px solid white;
+}
+#menu a:hover
+{
+	background-color: darkblue;
+}
+
+#menu ul
+{
+	display: none;
+}
+
+#menu li:hover ul
+{
+	display: block;
+}
+li
+{
+	list-style: none;
+}
+
+#inhalt
+{
+
+	float: right;
+	width: 250px;
+	height: 520px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	border: 3px solid black;
+}
+
+#map
+{
+	float: right;
+	width: 632px;
+	height: 520px;
+	margin-top: 8px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+	border: 3px solid black;
+}
+.oben{
+	display: flex;
+}
+#unten
+{
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	color: #fff;
+	display: block;
+	padding: 10px 0 5px 10px;
+	border-top: 2px solid black;
+
+}
+#unten li p{
+	text-align: left;
+}
+
+#rechts
+{
+	float: left;
+	padding: 15px;
+	margin-top: 55px;
+}
+
+#links
+{
+	padding: 15px;
+	margin-top: 10px;
+}

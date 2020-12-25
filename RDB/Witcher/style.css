@@ -1,0 +1,25 @@
+body
+{
+	background-image: url(Background_Home.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+nav a
+{
+	color: #ffffe6;
+	text-transform: uppercase;
+	font-size: 22px;
+	font-family: Morpheus;
+	text-decoration: none;
+}	
+nav li
+{
+	list-style-type: none;
+	float: left;
+	margin-right: 100px;
+	margin-left: 172px;
+}	
+nav a:hover 
+{
+	color: #333333;	
+}

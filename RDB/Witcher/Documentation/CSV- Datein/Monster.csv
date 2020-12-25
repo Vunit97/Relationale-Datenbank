@@ -1,0 +1,115 @@
+﻿Bär;Bestie;Gehen;Berserker
+Hund;Bestie;Laufen, Springen;Wolfsrudel, Mensch
+Panther;Bestie;Laufen, Springen;Pantherrudel
+Wildschwein;Bestie;Rammen, Laufen;Wildschweinrudel
+Wolf;Bestie;Laufen, Springen;Wolfsrudel, Ulfheddin, Werwölfe
+Basilisk;Dracanoid;Gehen, Fliegen;Silberbasilisk
+Der Drache von Fyresdal;Dracanoid;Gehen, Fliegen;Gabelschwanz
+Gabelschwanz;Dracanoid;Gehen, Fliegen;Der Drache von Fyresdal
+Gorgos;Dracanoid;Gehen, Fliegen;Kreischling
+Kreischling;Dracanoid;Gehen, Fliegen;Gorgos
+Köingswyvern;Dracanoid;Gehen, Fliegen;Wyvern
+Mutterschleimling;Dracanoid;Gehen, Fliegen;Schleimling
+Schleimling;Dracanoid;Gehen, Fliegen;Mutterschleimling
+Silberbasislisk;Dracanoid;Gehen, Fliegen;Basilisk
+Wyvern;Dracanoid;Gehen, Fliegen;Köingswyvern
+Bargest;Geist;Laufen, Springen;Erscheinung
+Büßer;Geist;Schweben, Teleportieren, immateriell;Erscheinung
+Geist von Daphne;Geist;Schweben, Teleportieren, immateriell;Todesfee
+Die Erscheinung aus dem Gemälde;Geist;Schweben, Teleportieren, immateriell;Büßer, Erscheinung
+Die Weiße Dame;Geist;Schweben, Teleportieren, immateriell;Mittagserscheinung
+Erscheinung;Geist;Schweben, Teleportieren, immateriell;Büßer, Bargest, Hims, Geister, Nachtmahr, Pestmaid, Der Pedel
+Hannah aus dem Wald;Geist;Schweben, Teleportieren, immateriell;Nachterscheinung
+Hims;Geist;Laufen, Schweben, Teleportieren, immateriell;Erscheinung
+Mittagserscheinung;Geist;Schweben, Teleportieren, immateriell;Teufel beim Brunnen, Die weiße Dame
+Nachterscheinung;Geist;Schweben, Teleportieren, immateriell;Hannah aus dem Wald
+Nachtmahr;Geist;Laufen,Schweben, Teleportieren, immateriell;Erscheinung, Büßer
+Pestmaiden;Geist;Schweben, Teleportieren, immateriell;Nachterscheinung, Erscheinung
+Teufel beim Brunnen;Geist;Schweben, Teleportieren, immateriell;Mittagserscheinung
+Todesfee;Geist;Schweben, Teleportieren, immateriell;Geist von Daphne
+Ätherische Erscheinung;Geist;Laufen,Schweben, Teleportieren, immateriell;Erscheinung, Die weiße Dame
+Erynien;Hybrid;Fliegen, Gehen;Harpyie
+Greif;Hybrid;Fliegen, Gehen;Opinicus
+Harpyie;Hybrid;Fliegen, Gehen;Erynien
+Melusine;Hybrid;Fliegen, Schwimmen;Sirenen
+Opinicus;Hybrid;Fliegen, Gehen;Greif
+Salma;Hybrid;Laufen;Sukkube
+Sirenen;Hybrid;Schwimmen, Fliegen;Melusine
+Sukkube;Hybrid;Laufen, Klettern;Salma
+Arachnomorph;Insektoid;Krabbeln;Arachnomorphschwarm
+Endriagenarbeiter;Insektoid;Krabbeln, Eingraben;Endriagendrohne, Endriagenkrieger
+Endriagendrohne;Insektoid;Krabbeln;Endriagenarbeiter, Endriagenkrieger
+Endriagenkrieger;Insektoid;Krabbeln, Eingraben;Endriagenarbeiter, Endriagendrohne
+Gepanzerte Krabbenspinne;Insektoid;Krabbeln;Giftige Krabbspinne, Harrisi, Krabbspinne
+Giftige Krabbenspinne;Insektoid;Krabbeln;Gepanzerte Krabbenspinne, Harrisi, Krabbspinne
+Harrisi;Insektoid;Krabbeln;Gepanzerte Krabbenspinne, Krabbenspinne, Giftige Krabbspinne
+Kikimora-Arbeiter;Insektoid;Krabbeln;Kikimora-Krieger
+Kikimora-Krieger;Insektoid;Krabbeln;Kikimora-Arbeiter
+Krabbspinne;Insektoid;Krabbeln;Gepanzerte Krabbenspinne
+Riesentausendfüßler;Insektoid;Eingraben;Weiße Witwe
+Weiße Witwe;Insektoid;Eingraben;Riesentausendfüßler
+Djinn;Konstrukte;Schweben, Teleportieren, immateriell;Magier, Genius
+Eisgenien;Konstrukte;Gehen;Erdgenien, Feuergenien
+Erdgenien;Konstrukte;Gehen;Eisgenien, Feuergenien
+Feuergenien;Konstrukte;Gehen;Eisgenien, Erdgenien
+Gargoyl;Konstrukte;Gehen;Golem
+Golem;Konstrukte;Gehen;Gargoyl, Moreaus Golem
+Hund der Wilden Jagd;Konstrukte;Laufen;Die Wilde Jagd
+Moreaus Golem;Konstrukte;Gehen;Golem
+Tharazane;Konstrukte;Gehen;Golem,  Moreaus Golem
+Abaya;Nekrophagen;Gehen, Schwimmen, Eingraben;Ertrunkener, Wasserweib
+Alghul;Nekrophagen;Laufen;Ghul
+Ertrunkener;Nekrophagen;Laufen, Springen;Abaya, Wasserweib
+Fleckenwicht;Nekrophagen;Laufen;Wicht
+Ghul;Nekrophagen;Laufen, Springen;Alghul
+Gruftweib;Nekrophagen;Gehen;Trauerschnepfe
+Ignis Fatuus;Nekrophagen;Gehen, Springen;Nebling
+Moderhaut;Nekrophagen;Laufen, Springen;Platzer
+Nebling;Nekrophagen;Laufen, Springen, Unsichtbar;Ignis Fatuus
+Platzer;Nekrophagen;Laufen, Springen;Moderhaut
+Trauerschnepfe;Nekrophagen;Laufen, Springen;Gruftweib
+Wasserweib;Nekrophagen;Laufen, Springen;Ertrunkener, Abaya
+Wicht;Nekrophagen;Laufen, Springen, Teleportieren;Fleckenwicht
+Eisriese;Ogriod;Gehen, Rollen;Eistroll, Felstroll
+Eistroll;Ogriod;Gehen, Rollen;Eisriese, Felstroll
+Felstroll;Ogriod;Gehen, Rollen;Eisriese, Eistroll, Wumm-a-Wumm
+Golyat;Ogriod;Gehen;Zyklop
+Hagubman;Ogriod;Laufen, Springen;Nekkar
+Nekkar;Ogriod;Laufen, Springen;Hagubman
+Wumm-a-Wumm;Ogriod;Gehen, Rollen;Felstroll
+Zyklop;Ogriod;Gehen;Golyat
+Bies;Relikt;Laufen, Rammen;Brüllaffe, Morvudd, Tschort
+Brüllaffe;Relikt;Laufen, Rammen;Bies, Morvudd, Tschort
+Das Monster von Tufo;Relikt;Gehen, Rollen, Eingraben;Glumaar
+Der Pedel;Relikt;Laufen,Schweben, Teleportieren, immateriell;Erscheinung
+Doppler;Relikt;Gehen;Kobold
+Geist des Waldes;Relikt;Gehen, Teleportieren;Grottor, Kernun, Waldschrat, Waldteufel
+Glumaar;Relikt;Gehen, Rollen, Eingraben;Das Monster von Tufo
+Grottor;Relikt;Gehen, Teleportieren;Geist des Waldes, Kernun, Waldschrat, Waldteufel
+Kernun;Relikt;Gehen, Teleportieren;Geist des Waldes, Grottor, Waldschrat, Waldteufel
+Kobold;Relikt;Gehen;Doppler
+Morvudd;Relikt;Laufen, Rammen;Bies, Brüllaffe, Tschort
+Muhmen;Relikt;Gehen, Teleportieren, Transformieren;Verschiedene Formen
+Silvane;Relikt;Gehen;Torque,Allgott,Fugas
+Tschort;Relikt;Laufen, Rammen;Bies, Brüllaffe, Morvudd
+Waldschrat;Relikt;Gehen, Teleportieren;Geist des Waldes, Grottor, Kernun, Waldteufel
+Waldteufel;Relikt;Gehen, Teleportieren;Geist des Waldes, Grottor, Kernun,Waldschrat
+Alpe;Vampir;Laufen, Teleportieren, Fliegen, Unsichtbar, Transformieren;Bruxae, Dettleff, Höherer Vampir
+Alpha-Garkins;Vampir;Laufen, Fliegen, Unsichtbar;Garkins
+Bruxae;Vampir;Laufen, Teleportieren, Fliegen, Unsichtbar, Transformieren;Alpe, Dettleff, Höhere Vampir
+Dettleff;Vampir;Laufen, Teleportieren, Fliegen, Unsichtbar, Transformieren;Alpe ,Bruxae, Höherer Vampir
+Ekimmen;Vampir;Laufen, Fliegen, Unsichtbar;Sarasti
+Flatterer;Vampir;Laufen, Fliegen, Unsichtbar;Protoflatterer
+Gael;Vampir;Laufen, Fliegen, Unsichtbar;Katakane
+Garkins;Vampir;Laufen, Fliegen, Unsichtbar;Alpha-Garkins
+Höherer Vampir;Vampir;Laufen, Teleportieren, Fliegen, Unsichtbar, Transformieren;Alpe, Bruxae, Dettleff
+Katakane;Vampir;Laufen, Fliegen, Unsichtbar;Gael
+Protoflatterer;Vampir;Laufen, Fliegen, Unsichtbar;Flatterer
+Sarasti;Vampir;Laufen, Fliegen, Unsichtbar;Ekimmen
+Unsichtbarer;Vampir;Gehen, Teleportieren, Fliegen, Transformieren, Unsichtbar;Höherer Vampir, Dettleff
+Archespore;Verfluchter;Eingraben;Archesporennest
+Berserker;Verfluchter;Laufen;Bären, Hunde, Wölfe
+Krötenprinz;Verfluchter;Springen, Laufen;K.A.
+Fehlgeborener;Verfluchter;Schweben, Teleportieren, immateriell;K.A.
+Ufhedinn;Verfluchter;Laufen, Springen;Werwolf, Wolfsrudel
+Werwolf;Verfluchter;Laufen, Springen;Ufhedinn, Wolfsrudel, Mensch
